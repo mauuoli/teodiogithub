@@ -18,7 +18,7 @@ while True:
         break;
     if valor == 2:
         print("la resta es",num1-num2)
-        break;
+   
     if valor == 3:
         print("la multiplicacion es",num1*num2)
         break;
