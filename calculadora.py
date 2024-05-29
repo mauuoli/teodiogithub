@@ -1,7 +1,8 @@
 num1 = int(input("numero 1: ")) 
 num2 = int(input("numero 2: ")) 
 
-valor = 0
+valor = 1
+#cambie el valor de la calculadora
 while True:
     print("""seleccione opcion
             1- Sumar 
@@ -27,3 +28,4 @@ while True:
     else:
         print("Opcion incorrecta")
         break;
+    
